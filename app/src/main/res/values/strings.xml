@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dr. Clicker</string>
+    <string name="accessibility_service_label">Dr. Clicker Auto-Accept</string>
+    <string name="accessibility_service_description">Workflow diagnostics and touch-latency testing for Rapido Captain</string>
+    <string name="template_preview">Yellow Accept Button Template Preview</string>
+    <string name="enable_accessibility">Please enable Dr. Clicker in Accessibility Settings</string>
+    <string name="enable_overlay">Please enable overlay permission to continue</string>
+</resources>
